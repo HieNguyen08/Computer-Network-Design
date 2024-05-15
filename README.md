@@ -27,3 +27,5 @@
 
 - **Building Specifications**: Each branch is a 2-story building with an IT room and Fiber Optic Center located on the 1st floor.
 - **Installation Scale**: Small scale, including 30 workstations, 3 servers, and at least 5 networking devices.
+
+![Network Diagram](Network-map-MMT.png)
